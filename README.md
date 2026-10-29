@@ -1,8 +1,10 @@
-# Sports Timer — Privacy Policy
+# Sports Timer — Privacy & Support
 
-Public German and English privacy policy for Sports Timer for iPhone and Apple Watch.
+Public German and English privacy policy and support page for Sports Timer for iPhone and Apple Watch.
 
-**Website:** https://privacy.monastery-coding.de/
+**Privacy policy:** https://privacy.monastery-coding.de/
+
+**Support:** https://privacy.monastery-coding.de/support/
 
 **Privacy and support contact:** support@monastery-coding.de
 
@@ -10,11 +12,11 @@ Public German and English privacy policy for Sports Timer for iPhone and Apple W
 
 GitHub Pages publishes branch `main`, folder `/`, using **Deploy from a branch**. The `.nojekyll` file keeps this plain HTML site buildless. No JavaScript, analytics, external fonts, or advertising are included.
 
-## Updating the policy
+## Updating the pages
 
-Edit `index.html`, keep the German and English versions consistent, update the revision date when appropriate, and push to `main`. GitHub Pages automatically publishes the change.
+Edit `index.html` or `support/index.html`, keep the German and English versions consistent, update the revision date when appropriate, and push to `main`. GitHub Pages automatically publishes the change.
 
-This repository contains only the public privacy website. The app source code is maintained separately.
+This repository contains only the public privacy and support website. The app source code is maintained separately.
 
 ## Custom domain
 
